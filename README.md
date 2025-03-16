@@ -1,10 +1,5 @@
 ## Hi there 👋 I'm Nguyen Son Bao.
 
-🛠️ Technologies & Skills:
-
-Javascript
-Typescript
-Java
 <!--
 **nsonbao261/nsonbao261** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
