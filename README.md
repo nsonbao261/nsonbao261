@@ -5,7 +5,7 @@
 ###
 
 
-<h1 align="center">hey there 👋 I'm Nguyen Son Bao</h1>
+<h1 align="center">Hi there 👋 I'm Nguyen Son Bao</h1>
 
 ###
 
